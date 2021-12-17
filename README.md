@@ -1,11 +1,12 @@
 # Final_Python_MiniProject
 Justin Tung's Python Mini Project
 
-#Purpose of the Code
+# Purpose of the Code
 The purpose of the Python code is to create a calculator that can do simple math. The calculator can add, subtract, 
 multiply, and divide two numbers. Additionally, the calculator can find the sine, cosine, and reciprocal of a number.
 Finally, the calculator can also display past calculations that were conducted by the calculator.
 
+# Explanation of the Code
 The calculator includes an add, subtract, multiply, and divide functions. These functions take two numbers from the 
 user as inputs and conducts the math on the two numbers. These functions have a check that ensures that the two inputs
 are numbers and not letters or other strings. The divide function checks that the user is not dividing by zero, or else
